@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Rohejul Islam</h1>
 <h3 align="center">A passionate native mobile app developer</h3>
 
-- 🔭 I've manily working on ios development but have working knowledge on Android development with Kotlin
+- 🔭 I've manily worked on ios development but have working knowledge on Android development with Kotlin
 - 🌱 I’m currently learning **SwiftUI & Combine**
 - 👯 I’m looking to collaborate on **Swift project**
 
@@ -23,6 +23,11 @@
 
 <p left="center">
   
+  <a href="https://www.linkedin.com/in/rohejul-islam-666746186/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+  
+ 
 <a href="mailto:islamrohijulr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
@@ -31,7 +36,4 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 
-  <a href="https://www.linkedin.com/in/rohejul-islam-666746186/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-  </p>
+</p>
