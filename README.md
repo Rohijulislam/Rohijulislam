@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD Rohejul Islam</h1>
 <h3 align="center">A passionate native mobile app developer</h3>
 
+- 🔭 I've manily working on ios development but have working knowledge on Android development with Kotlin
 - 🌱 I’m currently learning **SwiftUI & Combine**
-
 - 👯 I’m looking to collaborate on **Swift project**
 
 ##  🎉 Skills  🎉
-- **iOS Technologies**: UIKIT, SwiftUI, Swift, Objective-C, CoreData, CoreGraphics and CoreAnimations
-- **Packages**: CocoaPods and Swift Packages
+- **iOS Technologies**: UIKIT, Swift, Objective-C, CoreData, CoreGraphics and CoreAnimations
+- **Android Technologies**: Android, kotlin
 - **FrontEnd**: HTML, CSS, JavaScript
-- **Web Technologies**: .Net
-- **BackEnd**:  Firebase, JSON, Vapor
-- **Databases**: SQL
 - **Architectures**: MVC, MVVM, VIPER
-- **Testing**: Unit Testing, TDD
-- **Languages**: Swift, C#, Python, JavaScript, Java, Objective-C
+- **Testing**: Unit Testing, UI testing 
+- **Languages**: Swift, Objective-C, Kotlin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
