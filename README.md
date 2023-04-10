@@ -16,11 +16,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Competitive Programming</b>
 <br>
-
-<p float="left">
-![](https://leetcard.jacoblin.cool/rohijulislam?theme=light)
+![](https://leetcard.jacoblin.cool/rohijulsilam?theme=light)
 <img height="280em" src="https://raw.githubusercontent.com/rohijulislam/cf-stats/main/output/light_card.svg" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
