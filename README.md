@@ -11,7 +11,7 @@
 - **FrontEnd**: HTML, CSS, JavaScript
 - **Architectures**: MVC, MVVM, VIPER
 - **Testing**: Unit Testing, UI testing 
-- **Languages**: Swift, Objective-C, Kotlin
+- **Languages**: Swift, Objective-C, Kotlin, c++
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
