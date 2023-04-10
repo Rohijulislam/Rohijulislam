@@ -19,7 +19,7 @@
 
 ![](https://leetcard.jacoblin.cool/rohijulislam?theme=light)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 
 <p left="center">
   
