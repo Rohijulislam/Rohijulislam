@@ -11,7 +11,7 @@
 - **FrontEnd**: HTML, CSS, JavaScript
 - **Architectures**: MVC, MVVM, VIPER
 - **Testing**: Unit Testing, UI testing 
-- **Languages**: Swift, Objective-C, Kotlin, c++
+- **Languages**: Swift, Objective-C, Kotlin, C++
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Competitive Programming </b>
@@ -37,3 +37,6 @@
 </a> 
 
 </p>
+
+### My daily routine
+![](https://media.giphy.com/media/7ltN7lCgF2MQE/giphy.gif)
