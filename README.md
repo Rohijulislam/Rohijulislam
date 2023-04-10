@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Rohejul Islam</h1>
 <h3 align="center">A passionate native mobile app developer</h3>
 
-- 🔭 I've manily worked on ios development but have working knowledge on Android development with Kotlin
+- 🔭 I've manily worked on iOS development but have working knowledge on Android development with Kotlin
 - 🌱 I’m currently learning **SwiftUI & Combine**
 - 👯 I’m looking to collaborate on **Swift project**
 
