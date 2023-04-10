@@ -14,9 +14,10 @@
 - **Languages**: Swift, Objective-C, Kotlin, c++
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Competitive Programming</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Competitive Programming </b>
 <br>
-![](https://leetcard.jacoblin.cool/rohijulsilam?theme=light)
+
+![](https://leetcard.jacoblin.cool/rohijulislam?theme=light)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
