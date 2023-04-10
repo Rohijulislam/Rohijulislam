@@ -13,6 +13,12 @@
 - **Testing**: Unit Testing, UI testing 
 - **Languages**: Swift, Objective-C, Kotlin, c++
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Leetcode Stats </b>
+<br>
+
+![](https://leetcard.jacoblin.cool/rohijulislam?theme=light)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/rohejul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohejul islam" height="30" width="40" /></a>
