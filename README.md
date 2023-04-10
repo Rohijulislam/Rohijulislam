@@ -17,7 +17,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Competitive Programming</b>
 <br>
 ![](https://leetcard.jacoblin.cool/rohijulsilam?theme=light)
-<img height="280em" src="https://raw.githubusercontent.com/rohijulislam/cf-stats/main/output/light_card.svg" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
