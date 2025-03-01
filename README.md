@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Swift project**
 
 ##  🎉 Skills  🎉
-- **iOS Technologies**: UIKIT, Swift, Objective-C, CoreData, CoreGraphics and CoreAnimations
+- **iOS Technologies**: UIKIT, SwiftUI, Swift, Objective-C, CoreData, CoreGraphics and CoreAnimations
 - **Android Technologies**: Android, kotlin
 - **FrontEnd**: HTML, CSS, JavaScript
 - **Architectures**: MVC, MVVM, VIPER
